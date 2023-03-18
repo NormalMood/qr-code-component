@@ -1,0 +1,40 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 310px;
+    height: 470px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 5%;
+    text-align: center;
+}
+
+img {
+    width: 279px;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+
+.p_bold {
+    font-size: 21px;
+    font-family: Outfit;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin: 10px;
+}
+
+p {
+    font-size: 14px;
+    font-family: Outfit;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: hsl(220, 15%, 55%);
+}
+
